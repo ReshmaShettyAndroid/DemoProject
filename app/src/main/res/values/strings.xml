@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoProject</string>
+    <string name="loading_txt">Loading</string>
+    <string name="please_wait_txt">Please wait....</string>
+    <string name="internet_txt">Please connect to internet</string>
+    <string name="base_url">http://www.mocky.io/v2/597c41390f0000d002f4dbd1</string>
+</resources>
